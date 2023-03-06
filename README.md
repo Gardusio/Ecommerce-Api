@@ -1,1 +1,1 @@
-Basic Ecommerce Api written in C# using .NET Core and EFCore
+Basic Ecommerce Api written in C# using .NET Core and Entity Framework Core
